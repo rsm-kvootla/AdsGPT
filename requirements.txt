@@ -1,0 +1,7 @@
+gpt4all==2.8.2
+gspread
+gspread_dataframe
+pandas
+numpy
+pyarrow
+fastparquet
